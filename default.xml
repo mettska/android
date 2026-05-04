@@ -140,7 +140,6 @@
   <project path="external/cbor-java" name="platform/external/cbor-java" groups="pdk" remote="aosp" />
   <project path="external/chromium-crossbench" name="platform/external/chromium-crossbench" groups="pdk" remote="aosp" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" remote="aosp" />
-  <project path="extermal/chromium-webview" name="platform/external/chromium-webview" groups="pdk" remote="aosp" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" remote="aosp" />
   <project path="external/cldr" name="platform/external/cldr" groups="pdk" remote="aosp" />
   <project path="external/clpeak" name="platform/external/clpeak" remote="aosp" />
